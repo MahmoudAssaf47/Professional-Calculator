@@ -1,16 +1,6 @@
 # Professional Calculator
 
-مرحبًا بك في مشروع الآلة الحاسبة الاحترافية
-## فيديو توضيحي
-
-لرؤية الشكل النهائي للواجهة الأمامية، شاهد الفيديو التوضيحي المرفق:
-
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/MahmoudAssaf47/Professional-Calculator/main/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+مرحبًا بك في مشروع الآلة الحاسبة
 في هذا هنتعرف على كيفية تعديل الكود الخاص بالآلة الحاسبة بتاعتك. الكود مقسوم لثلاثة ملفات رئيسية، وكل ملف ليه دور محدد. هنتناول كل ملف على حدة، وإزاي تقدر تعدل عليه لتحقيق التعديلات اللي انت عايزها.
 
 ## الملفات
