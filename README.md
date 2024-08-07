@@ -6,7 +6,7 @@
 لرؤية الشكل النهائي للواجهة الأمامية، شاهد الفيديو التوضيحي المرفق:
 
 <video width="600" controls>
-  <source src="test.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
